@@ -2,7 +2,7 @@
 
 **Effective Date:** March 25, 2026
 
-Thank you for using our application ("App"). This Privacy Policy explains how we handle your information.
+Thank you for using our application ("MKSORT MasterApp"). This Privacy Policy explains how we handle your information.
 
 ## 1. Information We Collect
 
@@ -44,7 +44,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or suggestions about this Privacy Policy, feel free to contact us:
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [muthukumarbk70@gmail.com](mailto:muthukumar@gmail.com)
 
 ---
 
